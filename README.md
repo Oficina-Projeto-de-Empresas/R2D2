@@ -1,27 +1,22 @@
-# Oficina Projeto Empresa do Grupo R2D2
-Faculdade Impacta de Tecnologia
+## Faculdade Impacta de Tecnologia  
+Curso: Análise e Desenvolvimento de Sistemas - EaD  
+Turma: 202101 - ADS 4A - EAD  
+Semestre: 1/2021  
+Disciplina: Oficina de Projeto de Empresa 2  
+Professor: Esp. Victor Williams Stafusa da Silva  
+Grupo: R2D2  
+Projeto: Sistema de Gestão de Estoque Millennium  
 
-Curso: Análise e Desenvolvimento de Sistemas - EaD
+## Autores / Nome dos Alunos:
 
-Turma: ADS 4A - EAD
+Anderson Yuri C. Cavalcanti  
+Carlos Eduardo Ferreira Santos  
+Diego Bueno de Souza  
+Djalma Espedito de Lima  
+Fabio Oliveira de Miranda  
+Jonathas da Silva de Paula  
+Willian Leonardo Vieira  
 
-Semestre: 1/2021
-
-Projeto: Sistema de Gestão de Estoque Millennium
-
-Nome dos Alunos:
-
-Anderson Yuri
-
-Carlos Eduardo Ferreira Santos
-
-Diego Bueno de Souza
-
-Djalma Espedito de Lima
-
-Fabio Miranda
-
-Jonathas Silva de Paula
-
-Willian Leonardo Vieira
-
+## Histórico de Versões
+* 0.1  
+  * Release Inicial
