@@ -1,4 +1,4 @@
-## Faculdade Impacta de Tecnologia  
+## Faculdade Impacta de Tecnologia
 Curso: Análise e Desenvolvimento de Sistemas - EaD  
 Turma: 202101 - ADS 4A - EAD  
 Semestre: 1/2021  
