@@ -1,6 +1,6 @@
 ## Faculdade Impacta de Tecnologia
-Curso: Análise e Desenvolvimento de Sistemas - EaD  
-Turma: 202101 - ADS 4A - EAD  
+Curso: Análise e Desenvolvimento de Sistemas
+Turma: 202101 - ADS 4A
 Semestre: 1/2021  
 Disciplina: Oficina de Projeto de Empresa 2  
 Professor: Esp. Victor Williams Stafusa da Silva  
